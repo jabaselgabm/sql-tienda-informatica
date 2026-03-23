@@ -9,7 +9,6 @@ INSERT INTO ARTICULOS (Nombre, Precio, Fabricante) VALUES
 ('Memoria USB 32GB', 18, 7), ('Funda Portátil', 22, 8), ('Webcam 720p', 55, 9), 
 ('Altavoces 2.0', 40, 10), ('Tarjeta MicroSD 64GB', 20, 1), ('Adaptador Wifi', 28, 2), 
 ('Pasta Térmica', 12, 3), ('Soporte Monitor', 48, 4), ('Limpiador Pantallas', 15, 5),
-
 -- Bloque 2: Rango 60€ - 120€ (Para tu ejercicio 1.4)
 ('Disco SSD 250GB', 65, 6), ('Monitor 21 pulgadas', 110, 7), ('Teclado Mecánico', 85, 8), 
 ('Auriculares Wireless', 95, 9), ('Placa Base B450', 115, 10), ('Fuente 600W', 75, 1), 
@@ -18,7 +17,6 @@ INSERT INTO ARTICULOS (Nombre, Precio, Fabricante) VALUES
 ('SAI 600VA', 105, 8), ('Mando Gaming', 65, 9), ('Repetidor WiFi', 72, 10), 
 ('Base Refrigeradora', 60, 1), ('Disco Externo 1TB', 82, 2), ('Webcam 1080p', 112, 3), 
 ('Microfono USB', 119, 4), ('Kit Herramientas', 64, 5),
-
 -- Bloque 3: Rango > 180€ (Para tu ejercicio 1.8)
 ('Tarjeta Gráfica RTX 3060', 350, 7), ('Procesador i7', 420, 8), ('Monitor 4K', 450, 9), 
 ('Portátil Gaming', 1200, 10), ('Placa Base Z790', 280, 1), ('SSD NVMe 2TB', 195, 2), 
@@ -27,7 +25,6 @@ INSERT INTO ARTICULOS (Nombre, Precio, Fabricante) VALUES
 ('Sistema Mesh WiFi', 185, 3), ('Procesador Ryzen 9', 540, 2), ('Gráfica RX 6700', 380, 9), 
 ('Portátil Profesional', 950, 3), ('Monitor 144Hz', 220, 1), ('Switch Gestionable', 215, 4), 
 ('Cámara Reflex', 600, 5), ('Impresora Láser Color', 280, 6),
-
 -- Bloque 4: Resto hasta completar 100 (Variados)
 ('RAM 16GB DDR4', 135, 1), ('Fuente Modular 750W', 145, 2), ('Refrigeración Líquida', 160, 3),
 ('Disco SSD 1TB', 140, 4), ('Caja Gaming RGB', 155, 5), ('Pack Ventiladores', 55, 6),
